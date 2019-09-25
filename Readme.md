@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Вета](https://up.htmlacademy.ru/htmlcss/26/user/858925).
-* Наставник: `Неизвестно`.
+* Наставник: [Мария](https://htmlacademy.ru/profile/id47061).
 
 ---
 
